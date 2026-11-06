@@ -1,0 +1,7 @@
+Warehouse_ID,Warehouse_Name,City,Region,Capacity_SqFt,Automated_Sorting,Avg_Dispatch_SLA_Days
+WH-WEST-01,Bhiwandi Central Mega Hub,Mumbai / Bhiwandi,West,350000,True,1
+WH-NORTH-01,Gurugram North Gateway,Delhi NCR / Gurugram,North,280000,False,2
+WH-SOUTH-01,Hosakote Logistics Park,Bengaluru,South,300000,True,1
+WH-EAST-01,Dankuni Distribution Center,Kolkata,East,180000,False,2
+WH-CENTRAL-01,Nagpur Transit Hub,Nagpur,Central,220000,True,1
+WH-SOUTH-02,Sriperumbudur Depot,Chennai,South,200000,True,1

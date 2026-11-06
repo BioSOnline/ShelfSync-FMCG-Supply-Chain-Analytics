@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Channel,City,Region,SLA_Target_OTIF,Payment_Terms,Penalty_Rate_Pct
+CUST-101,MetroMart Superstores,Hypermarket,Mumbai,West,0.92,Net 45,0.03
+CUST-102,FreshFleet Retail,Supermarket,Pune,West,0.9,Net 30,0.02
+CUST-103,UrbanBasket Express,Quick Commerce,Bengaluru,South,0.95,Net 15,0.05
+CUST-104,Apex Wholesale Club,Wholesale / Cash & Carry,Delhi NCR,North,0.88,Net 60,0.02
+CUST-105,PrimePantry Hyper,Hypermarket,Hyderabad,South,0.92,Net 45,0.03
+CUST-106,QuickDrop Grocery,Quick Commerce,Delhi NCR,North,0.95,Net 15,0.05
+CUST-107,GreenLeaf Grocers,Supermarket,Chennai,South,0.9,Net 30,0.025
+CUST-108,Reliance Bazaar,Hypermarket,Ahmedabad,West,0.92,Net 45,0.03
+CUST-109,CityCorner Mart,Convenience Store,Kolkata,East,0.85,Net 30,0.015
+CUST-110,OmniCart Online,E-Commerce,Bengaluru,South,0.94,Net 30,0.04
+CUST-111,Spence Valley Super,Supermarket,Kolkata,East,0.9,Net 30,0.02
+CUST-112,Vanguard Bulk Mart,Wholesale / Cash & Carry,Jaipur,North,0.88,Net 60,0.02
+CUST-113,Nectar Food & Mart,Supermarket,Chandigarh,North,0.9,Net 30,0.02
+CUST-114,DailyNeeds Express,Convenience Store,Lucknow,Central,0.85,Net 15,0.015
+CUST-115,Summit Retail Chain,Hypermarket,Indore,Central,0.91,Net 45,0.03
+CUST-116,ZeptoGo Rapid,Quick Commerce,Mumbai,West,0.96,Net 15,0.05
+CUST-117,Eastern Superstores,Hypermarket,Bhubaneswar,East,0.9,Net 45,0.025
+CUST-118,Southern Comforts Mart,Supermarket,Kochi,South,0.89,Net 30,0.02
+CUST-119,National Pantry Logistics,Wholesale / Cash & Carry,Nagpur,Central,0.88,Net 60,0.02
+CUST-120,BlinkShip Digital,E-Commerce,Delhi NCR,North,0.93,Net 30,0.035
